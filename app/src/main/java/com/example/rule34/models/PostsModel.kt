@@ -1,4 +1,4 @@
-package com.example.rule34
+package com.example.rule34.models
 
 class PostsModel(
     var preview_url: String,
